@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "root",
+    "password": "1412",
+    "database": "chatForumDB",
+    "host": "localhost",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": "admin",
+    "database": "chatForumDB",
+    "host": "mysql",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": "admin",
+    "database": "chatForumDB",
+    "host": "mysql",
+    "dialect": "mysql"
+  }
+}
