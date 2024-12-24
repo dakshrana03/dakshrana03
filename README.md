@@ -1,7 +1,8 @@
 <h1 align="center">👋 Hey there, I'm <Daksh Rana>!</h1>
 
 <p align="center">
-  <img src="<your-picture-or-banner-link>" alt="Profile Banner" width="100%" />
+  <img src="![1731559589952](https://github.com/user-attachments/assets/78d51ce3-eb2a-498f-8d0b-c491f9199584)
+" alt="Profile Banner" width="100%" />
 </p>
 
 ---
@@ -65,8 +66,8 @@
 ### 📈 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=<your-username>&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=<your-username>&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=<dakshrana03>&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=<dakshrana03>&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
@@ -74,7 +75,7 @@
 ### 🎯 Fun Facts  
 - 🌱 I’m currently learning **machine learning and cloud architecture**.  
 - 🎮 Gaming, gym, and coding = my trifecta of fun!  
-- 🦄 Fun fact: *Add something quirky or unique about yourself here!*  
+- 🦄 Fun fact: *I love playing soccer!*  
 
 ---
 
