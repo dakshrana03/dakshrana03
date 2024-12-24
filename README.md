@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey there, I'm <Daksh Rana>!</h1>
+<h1 align="center">👋 Hey there, I'm Daksh Rana!</h1>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/78d51ce3-eb2a-498f-8d0b-c491f9199584" 
