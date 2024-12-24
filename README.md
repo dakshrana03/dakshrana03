@@ -1,8 +1,7 @@
 <h1 align="center">👋 Hey there, I'm <Daksh Rana>!</h1>
 
 <p align="center">
-  <img src="![1731559589952](https://github.com/user-attachments/assets/78d51ce3-eb2a-498f-8d0b-c491f9199584)
-" alt="Profile Banner" width="100%" />
+  <img src="https://github.com/user-attachments/assets/78d51ce3-eb2a-498f-8d0b-c491f9199584" alt="Profile Banner" width="100%" />
 </p>
 
 ---
@@ -35,20 +34,6 @@
 **Tools**:  
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
----
-
-### 📌 My Projects  
-
-🚀 **[Project Name](#)**  
-*Short description of the project.*  
-- 🔗 [Live Demo](#)  
-- 🛠️ Tech: React, Node.js, AWS  
-
-📊 **[Another Project Name](#)**  
-*Short description of this project.*  
-- 🔗 [Repository](#)  
-- 🛠️ Tech: Python, Flask, DynamoDB  
 
 ---
 
