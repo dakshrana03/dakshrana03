@@ -56,14 +56,7 @@
 
 ---
 
-### 📈 GitHub Stats  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dakshrana03&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dakshrana03&theme=radical" alt="GitHub Streak" />
-</p>
-
----
 
 ### 📂 Highlight Projects  
 - 🔹 **Web App Pentesting & Remediation** – Exploited and fixed OWASP Top 10 (SQLi, XSS) using Burp Suite & ZAP.  
