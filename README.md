@@ -74,11 +74,13 @@
 
 ---
 
+
 ### 🎯 Fun Facts  
-- 📚 Constantly learning **new security tools & attack vectors**.  
-- 🏋️ I work out 5x a week — fitness keeps me sharp for problem-solving.  
+- 📚 I love to **learn and apply new security tools & attack vectors**.  
+- ⛳ I enjoy outdoor sports like **golf and tennis**.  
 - ⚽ Big soccer fan & gamer when not working on cyber projects.  
+
 
 ---
 
-<p align="center">💡 "The quieter you become, the more you are able to hear." – Rumi</p>
+<p align="center">💡 "The best way to predict the future is to create it." – Peter Drucker </p>
